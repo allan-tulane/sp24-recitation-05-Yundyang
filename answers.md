@@ -26,3 +26,5 @@ Selection Sort consistently matches its O(n^2) complexity, showing a steady incr
 
 
 - **1c.**
+
+  The table shows that Python's Timsort is significantly faster than the other sorting algorithms tested, across all list sizes. As the list size increases, the time taken by Timsort increases very slowly, highlighting its efficiency. In contrast, selection sort shows the slowest performance, with its run time increasing sharply as list size grows, reflecting its O(n^2) complexity. Quicksort variants perform better than selection sort but are still outpaced by Timsort.
