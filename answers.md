@@ -26,6 +26,13 @@ Place all written answers from `recitation-05.md` here for easier grading.
 |         800 |                   2.595 |                    3.816 |               0.207 |            76.732 |
 |         900 |                   4.321 |                    3.696 |               0.220 |            74.973 |
 
+Fixed Pivot Quicksort performs well on random lists, aligning with the expected average-case O(n log n) complexity
+
+Random Pivot Quicksort is similar to Fixed Pivot Quicksort but it has higher running times. 
+
+Selection Sort consistently matches its O(n^2) complexity, showing a steady increase in running time with list size.
+
+
 
 
 - **1c.**
