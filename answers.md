@@ -13,18 +13,8 @@ Place all written answers from `recitation-05.md` here for easier grading.
 
 
 - **1b.**
-|   List Size |   Fixed Pivot Time (ms) |   Random Pivot Time (ms) |   TimSort Time (ms) |   Ssort Time (ms) |
-|-------------|-------------------------|--------------------------|---------------------|-------------------|
-|          10 |                   0.042 |                    0.043 |               0.005 |             0.026 |
-|         100 |                   0.349 |                    0.353 |               0.022 |             1.700 |
-|         200 |                   0.568 |                    0.879 |               0.029 |             1.920 |
-|         300 |                   0.476 |                    1.091 |               0.035 |             2.502 |
-|         400 |                   1.102 |                    1.023 |               0.046 |             6.337 |
-|         500 |                   1.438 |                    1.991 |               0.079 |            14.452 |
-|         600 |                   2.764 |                   43.036 |               0.073 |            15.697 |
-|         700 |                   3.013 |                    2.650 |               0.185 |            18.564 |
-|         800 |                   2.595 |                    3.816 |               0.207 |            76.732 |
-|         900 |                   4.321 |                    3.696 |               0.220 |            74.973 |
+<img width="915" alt="image" src="https://github.com/allan-tulane/sp24-recitation-05-Yundyang/assets/143100920/67795f69-918a-4bd5-a6cd-ff750fdd0b85">
+
 
 Fixed Pivot Quicksort performs well on random lists, aligning with the expected average-case O(n log n) complexity
 
